@@ -1,0 +1,1 @@
+Cryptocurrency price forecasting involves predicting the future value of digital currencies like Bitcoin, Ethereum, and others. Due to the high volatility and speculative nature of the crypto market, forecasting pricesis challenging and often relies on various techniques
